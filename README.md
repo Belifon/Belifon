@@ -41,7 +41,10 @@ A web application developed as my final project for the CS50x course. It helps u
 - Python, Flask
 - HTML, CSS, Bootstrap
 - SQL, SQLite
+- JavaScript
 - Git, GitHub
+- Data Analysis
+- Project Management
 
 
 ## Hobbies 
