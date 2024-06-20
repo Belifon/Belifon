@@ -6,7 +6,7 @@ I am an Occupational Physician with a growing passion for computer science and t
 
 ## My Tech Journey
 
-My interest in technology began while I was searching for a new hobby, something to complement my professional life. I enrolled in the CS50T program on edX, which led me to the more challenging CS50x curriculum. The process of coding to solve problems, navigating through data with SQL, and building applications from scratch was incredibly exhilarating. This newfound passion for computer science has added a dynamic layer to my professional skill set.
+My interest in technology began while I was searching for a new hobby, something to complement my professional life. I enrolled in the CS50T program on EdX, which led me to the more challenging CS50x curriculum. The process of coding to solve problems, navigating through data with SQL, and building applications from scratch was incredibly exhilarating. This newfound passion for computer science has added a new layer to my professional skill set.
 
 ## Interests
 - 📚 Learning new things, especially in the field of computer science.
