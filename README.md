@@ -35,7 +35,7 @@ A web application developed as my final project for the CS50x course. It helps u
 
 ## Education
 - CS50x - Introduction to Computer Science by Harvard University (Edx)
-- Medical degree in Occupational Health
+- Medical degree
 
 ## Skills
 - Python, Flask
