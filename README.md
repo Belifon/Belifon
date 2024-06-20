@@ -64,9 +64,9 @@ A web application developed as my final project for the CS50x course. It helps u
 Feel free to check out my repositories and projects. I'm always open to collaborating on exciting new ideas and learning from the community!
 
 ## Get in Touch
-- 📧 Email: [your.email@example.com](mailto:dryelissatomic@gmail.com)
+- 📧 Email: [dryelissatomic@gmail.com](mailto:dryelissatomic@gmail.com)
 - 🐦 Twitter: [@isyeridoktoru](https://x.com/isyeridoktoru)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yelissa)
+- 💼 LinkedIn: [yelissa](https://linkedin.com/in/yelissa)
 <!--
 
 Here are some ideas to get you started:
