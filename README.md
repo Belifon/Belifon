@@ -31,7 +31,7 @@ A web application developed as my final project for the CS50x course. It helps u
   - JavaScript
 
 - **Repository**: [Blood Pressure Tracker](https://github.com/Belifon/bp-tracker)
-- **link**: [BP Tracker Login](https://bp-tracker-bdbe1f8dce71.herokuapp.com/login)
+- **Website**: [BP Tracker Login](https://bp-tracker-bdbe1f8dce71.herokuapp.com/login)
 
 ## Education
 - CS50x - Introduction to Computer Science by Harvard University (Edx)
@@ -45,16 +45,16 @@ A web application developed as my final project for the CS50x course. It helps u
 
 
 ## Hobbies 
-- Tennis: I love playing tennis, though I admit I'm not very good at it.
-- Piano: I play the piano by ear and the only thing I can proudly play is *Clubbed to Death*... I mean everyone can play *River Flows in You* that just doesn't count...
-- Psychological Counseling: I'm certified in family counseling and find it rewarding to help people navigate through challenging times.
-- Rubik's Cube Solving: I am not sure if being able to solve one under a minute should count as a hobby but still...
-- Ballet and Rhytmic Gymnastics: I trained semi-professionally for six years 
-- Off-Ice Ice Skating Trainer: I have been an off-ice trainer for two years due to my gymnastics background, despite not being able to skate well myself.
-- Translation and Editing: My mother is an amazing translator, and I've inherited some of her skills in translation and editing.
-- Harry Potter: A lifelong fan!
-- Former Hobbies: I've dabbled in archery, windsurfing, scuba diving, flying trapeze, musical theater, choir (as a soprano), and playing the violin and guitar.
-- Kick-box and CrossFit: These were definitely failed hobby attempts, but they were fun while they lasted.
+- 🎾 Tennis: I love playing tennis, though I admit I'm not very good at it.
+- 🎹 Piano: I play the piano by ear and the only thing I can proudly play is *Clubbed to Death*... I mean everyone can play *River Flows in You* that just doesn't count...
+- 🏡 Psychological Counseling: I'm certified in couples and family counseling and find it rewarding to help people navigate through challenging times.
+- 🧮 Rubik's Cube Solving: I am not sure if being able to solve one under a minute should count as a hobby but still...
+- 🩰 Ballet and Rhytmic Gymnastics: I trained semi-professionally for six years 
+- ⛸️ Off-Ice Ice Skating Trainer: I have been an off-ice trainer for two years due to my gymnastics background, despite not being able to skate well myself.
+- 💱 Translation and Editing: My mother is an amazing translator, and I've inherited some of her skills in translation and editing.
+- 🪄 Harry Potter: A lifelong fan!
+- 🎭 Former Hobbies: I've dabbled in archery, windsurfing, scuba diving, flying trapeze, musical theater (as a dancer), choir (as a soprano), and playing the violin and guitar.
+- 🥊 Kick-box and CrossFit: These were definitely failed hobby attempts, but they were fun while they lasted.
 
 
 
