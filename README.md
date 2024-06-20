@@ -12,7 +12,7 @@ My interest in technology began while I was searching for a new hobby, something
 - 📚 Learning new things, especially in the field of computer science.
 - 💻 Building applications and exploring new technologies.
 - 🏥 Occupational health and safety.
-- 🐥 Psychology and mental health.
+- 👥 Psychology.
 
 ## Currently Working On
 ### Blood Pressure Tracker
