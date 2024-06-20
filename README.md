@@ -18,20 +18,8 @@ My interest in technology began while I was searching for a new hobby, something
 ### BP Tracker
 A web application developed as my final project for the CS50x course. It helps users monitor and manage their blood pressure readings.
 
-- **Features**:
-  - Record systolic and diastolic blood pressure, pulse rate, notes.
-  - Visualize health trends with a user-friendly dashboard.
-  - Access educational resources on blood pressure management.
-  - Supports multiple languages (English and Turkish).
-
-- **Tech Stack**:
-  - Python, Flask
-  - SQLite
-  - HTML, CSS (Bootstrap)
-  - JavaScript
-
 - **Repository**: [Blood Pressure Tracker](https://github.com/Belifon/bp-tracker)
-- **Website**: [BP Tracker Login](https://bp-tracker-bdbe1f8dce71.herokuapp.com/login)
+- **Check it out**: [BP Tracker Login](https://bp-tracker-bdbe1f8dce71.herokuapp.com/login)
 
 ## Education
 - CS50x - Introduction to Computer Science by Harvard University (Edx)
