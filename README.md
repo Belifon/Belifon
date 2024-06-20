@@ -15,7 +15,7 @@ My interest in technology began while I was searching for a new hobby, something
 - 👥 Psychology.
 
 ## Currently Working On
-### Blood Pressure Tracker
+### BP Tracker
 A web application developed as my final project for the CS50x course. It helps users monitor and manage their blood pressure readings.
 
 - **Features**:
