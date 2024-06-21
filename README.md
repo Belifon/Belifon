@@ -19,7 +19,7 @@ My interest in technology began while I was searching for a new hobby, something
 A web application developed as my final project for the CS50x course. It helps users monitor and manage their blood pressure readings.
 
 - **Repository**: [Blood Pressure Tracker](https://github.com/Belifon/bp-tracker)
-- **Check it out**: [BP Tracker Login](https://bp-tracker-bdbe1f8dce71.herokuapp.com/login)
+- **Click to See**: [BP Tracker](https://bp-tracker-bdbe1f8dce71.herokuapp.com/login)
 
 ## Education
 - CS50x - Introduction to Computer Science by Harvard University (Edx)
